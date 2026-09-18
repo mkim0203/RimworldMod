@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ModMetaData>
+  <name>bab and jam</name>
+  <author>mhkim</author>
+  <packageId>mhkim.babandjam</packageId>
+  <supportedVersions>
+    <li>1.6</li>
+  </supportedVersions>
+  <modDependencies>
+    <li>
+      <packageId>brrainz.harmony</packageId>
+      <displayName>Harmony</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+    </li>
+  </modDependencies>
+  <description>Adds hunger and rest bars to each pawn portrait in the colonist bar.</description>
+</ModMetaData>
