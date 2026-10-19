@@ -5,6 +5,8 @@ VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BabAndJam", "Source\BabAndJam\BabAndJam.csproj", "{FA03894B-9AE6-4AC2-9863-D312DF4D2CD0}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BabAndJam.1.7", "Source\BabAndJam\BabAndJam.1.7.csproj", "{B8E7C048-E860-4823-B556-D5D8F5717AB9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{FA03894B-9AE6-4AC2-9863-D312DF4D2CD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FA03894B-9AE6-4AC2-9863-D312DF4D2CD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FA03894B-9AE6-4AC2-9863-D312DF4D2CD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8E7C048-E860-4823-B556-D5D8F5717AB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8E7C048-E860-4823-B556-D5D8F5717AB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8E7C048-E860-4823-B556-D5D8F5717AB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8E7C048-E860-4823-B556-D5D8F5717AB9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
